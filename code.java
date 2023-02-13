@@ -47,7 +47,7 @@ public class code {
         System.out.println(result);
 	}
 	
-	//Q1 Q2 I can't write it by myself
+	//Q1 Q2 I can't write them by myself
 
 }
 
